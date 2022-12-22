@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**jocubeit/jocubeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dom and I'm a software architect and fullstack engineer experienced with the following frameworks, languages and technologies:
 
-Here are some ideas to get you started:
+- Dart
+- Typescript
+- Flutter
+- Docker
+- Kubernetes
+- Postgres
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also an entrepreneur and founder, and I'm currently building SaaS businesses and Flutter ecosystem design tools with my company Startcommerce
+
+I'm an ex-soldier in Eelctronic Warfare with the Signal Corps in the Australian Army.
+
+I have past experience in many languages including .NET, Java, Ruby, Objective C, C++, Fortran to name a few and have a degree in Electronics Engineering.
+
+I'm currently interested in e-commerce, e-governance, decentralized finance and blockchain.
+
+I travel a lot with my family and work from home, wherever that is at the time.
+
+Feel free to reach out to me if you have something you'd like to collaborate on.
