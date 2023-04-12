@@ -8,6 +8,7 @@ My name is Dom and I'm a software architect and fullstack engineer experienced w
 - Docker
 - Kubernetes
 - Postgres
+- Dgraph
 
 I'm also an entrepreneur and founder, and I'm currently building SaaS businesses and Flutter ecosystem design tools with my company Startcommerce.
 
