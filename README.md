@@ -18,7 +18,7 @@ I'm an ex-soldier in Electronic Warfare with the Signal Corps in the Australian 
 
 I have past experience in many languages including .NET, Java, Ruby, Objective C, C++, Fortran to name a few and have a degree in Electronics Engineering.
 
-I'm currently interested in e-commerce, e-governance, open banking, decentralized finance and blockchain.
+I'm currently interested in platform development, e-commerce, e-governance, open banking, decentralized finance and blockchain, particularly in SaaS and PaaS deployments.
 
 I travel a lot with my family and work from home, wherever that is at the time.
 
